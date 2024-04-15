@@ -7,3 +7,5 @@ then set git remote add origin (repo link)
 check git branch if (branch is main then go ahead else set git branch to main)
 then git push origin main 
 boom !!!refresh 
+#new 
+used for creting branches
